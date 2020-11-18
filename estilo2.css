@@ -1,0 +1,254 @@
+.bloqueado{
+	display: none;
+}
+
+.libro{
+		display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0%;
+	left: 0%;
+}
+
+.bienvenida{
+	display: block;
+	background-image: url(m.gif);
+	background-repeat: no-repeat;
+	background-size: 50% 50%;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 30%;
+	top: 10%
+}
+
+.imglibro{
+		display: block;
+		position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.imgflecha{
+		display: block;
+		position: absolute;
+	width: 15%;
+	height: 20%;
+	top: 75%;
+	left: 81%;
+		transition: .5s;
+}
+.imgflecha2{
+		display: block;
+		position: absolute;
+	width: 15%;
+	height: 20%;
+	top: 75%;
+	left: 1%;
+		transition: .5s;
+}
+.imgflecha:hover{
+		display: block;
+		position: absolute;
+	width: 21%;
+	height: 26%;
+	top: 75%;
+	left: 81%;
+		transition: .5s;
+}
+.imgflecha2:hover{
+		display: block;
+		position: absolute;
+	width: 20%;
+	height: 26%;
+	top: 75%;
+	left: 0%;
+		transition: .5s;
+}
+.animacion{
+		display: block;
+	background-image: url(animacionp.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 12%;
+	left: 42%;
+		background-size: 31% 74%;
+}
+.imglibroabierto{
+			display: block;
+		position: absolute;
+	width: 100%;
+	height: 100%;
+
+	top: 10%;
+}
+.narrador{
+			display: block;
+		position: absolute;
+	width: 56%;
+	height: 21%;
+	left: 22%;
+	top: 1%;
+	  border-radius: 30px;
+		background:#C39BD3 ;
+}
+
+.pag1{
+			display: block;
+		position: absolute;
+	width: 100%;
+	height: 100%;
+
+
+}
+.mariquita{
+			display: block;
+	background-image: url(mariquita.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 32%;
+	left: 17%;
+		background-size: 30% 43%;
+
+}
+.grillo{
+			display: block;
+	background-image: url(grillo.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 32%;
+	left: 53%;
+		background-size: 30% 43%;
+}
+.mariposa{
+			display: block;
+	background-image: url(mariposa.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 32%;
+	left: 17%;
+		background-size: 30% 43%;
+
+}
+.mosquito{
+			display: block;
+	background-image: url(mosquito.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 32%;
+	left: 53%;
+		background-size: 30% 43%;
+}
+.mama{
+			display: block;
+	background-image: url(mama.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 32%;
+	left: 17%;
+		background-size: 30% 43%;
+
+}
+.orainicio{
+				display: block;
+		position: absolute;
+	width: 30%;
+	height: 21%;
+	left: 52%;
+	top: 47%;
+
+
+}
+.play{
+					display: block;
+		position: absolute;
+	width: 10%;
+	height: 15%;
+	left: 13%;
+	top: 5%
+}
+.fondo1{
+				display: block;
+		position: absolute;
+	width: 64%;
+	height: 44%;
+    left: 18%;
+	top: 31%;
+}
+
+.ani1{
+		display: block;
+	background-image: url(ani1.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 31%;
+	left: 18%;
+		background-size: 64% 44%;
+}
+.ani3{
+		display: block;
+	background-image: url(ani3.gif);
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 31%;
+	left: 18%;
+		background-size: 64% 44%;
+}
+.grillom{
+		position: absolute;
+	width: 30%;
+	height: 40%;
+	top: 31%;
+	left: 45%;
+}
+.mariquitam{
+		position: absolute;
+	width: 30%;
+	height: 40%;
+	top: 28%;
+	left: 30%;
+}
+.mamam{
+		position: absolute;
+	width: 15%;
+	height: 15%;
+	top: 59%;
+	left: 52%;
+}
+.mariposam{
+	position: absolute;
+	width: 15%;
+	height: 15%;
+	top: 44%;
+	left: 53%;
+}
+.moscam{
+	position: absolute;
+	width: 17%;
+	height: 17%;
+	top: 43%;
+	left: 27%;
+}
+.mariquitam2{
+	position: absolute;
+	width: 15%;
+	height: 15%;
+	top: 39%;
+	left: 27%;
+}
